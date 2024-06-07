@@ -13,37 +13,47 @@ namespace Hnefatafl.Models
 
     public class GamePiece
     {
-        public PieceType Type { get; set; }
+        public PieceType _type { get; set; }
         private Color _pieceColor;
+
+        public PieceType Type
+        {
+            get { return _type; }
+            set
+            {
+                _type = value;
+                SetDefaultColor(); 
+            }
+        }
 
         public Color PieceColor
         {
             get { return _pieceColor; }
-            set { _pieceColor = value; }
+            private set { _pieceColor = value; } 
         }
 
         public GamePiece()
         {
-
-            SetDefaultColor();
+            Type = PieceType.Empty;
         }
+
 
         private void SetDefaultColor()
         {
-            switch (Type)
+            switch (_type) 
             {
                 case PieceType.Warrior:
-                    _pieceColor = Colors.Red;  // Example color for warriors
+                    _pieceColor = Colors.Red; 
                     break;
                 case PieceType.Defender:
-                    _pieceColor = Colors.Blue; // Example color for defenders
+                    _pieceColor = Colors.Blue;
                     break;
                 case PieceType.King:
-                    _pieceColor = Colors.Gold; // Example color for the king
+                    _pieceColor = Colors.Gold;
                     break;
                 case PieceType.Empty:
                 default:
-                    _pieceColor = Colors.Transparent; // Empty or default
+                    _pieceColor = Colors.Transparent;
                     break;
             }
         }

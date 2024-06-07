@@ -44,13 +44,9 @@ namespace Hnefatafl.Services
             //Attacker 4 groups
             for (int i = 3; i <= 7; i++)
             {
-                // Top
                 Board[i, 0] = new GamePiece() { Type = PieceType.Warrior };
-                // Bottom
                 Board[i, 10] = new GamePiece() { Type = PieceType.Warrior };
-                // Left 
                 Board[0, i] = new GamePiece() { Type = PieceType.Warrior };
-                // Right
                 Board[10, i] = new GamePiece() { Type = PieceType.Warrior };
             }
 
