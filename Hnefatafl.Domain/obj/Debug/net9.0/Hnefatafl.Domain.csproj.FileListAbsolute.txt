@@ -1,0 +1,12 @@
+C:\dev\Hnefatafl\Hnefatafl.Domain\bin\Debug\net9.0\Hnefatafl.Domain.deps.json
+C:\dev\Hnefatafl\Hnefatafl.Domain\bin\Debug\net9.0\Hnefatafl.Domain.dll
+C:\dev\Hnefatafl\Hnefatafl.Domain\bin\Debug\net9.0\Hnefatafl.Domain.pdb
+C:\dev\Hnefatafl\Hnefatafl.Domain\obj\Debug\net9.0\Hnefatafl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Hnefatafl\Hnefatafl.Domain\obj\Debug\net9.0\Hnefatafl.Domain.AssemblyInfoInputs.cache
+C:\dev\Hnefatafl\Hnefatafl.Domain\obj\Debug\net9.0\Hnefatafl.Domain.AssemblyInfo.cs
+C:\dev\Hnefatafl\Hnefatafl.Domain\obj\Debug\net9.0\Hnefatafl.Domain.csproj.CoreCompileInputs.cache
+C:\dev\Hnefatafl\Hnefatafl.Domain\obj\Debug\net9.0\Hnefatafl.Domain.sourcelink.json
+C:\dev\Hnefatafl\Hnefatafl.Domain\obj\Debug\net9.0\Hnefatafl.Domain.dll
+C:\dev\Hnefatafl\Hnefatafl.Domain\obj\Debug\net9.0\refint\Hnefatafl.Domain.dll
+C:\dev\Hnefatafl\Hnefatafl.Domain\obj\Debug\net9.0\Hnefatafl.Domain.pdb
+C:\dev\Hnefatafl\Hnefatafl.Domain\obj\Debug\net9.0\ref\Hnefatafl.Domain.dll

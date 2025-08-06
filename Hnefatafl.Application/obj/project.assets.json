@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "Hnefatafl.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Hnefatafl.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hnefatafl.Domain.dll": {}
+        }
+      },
+      "Hnefatafl.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Hnefatafl.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hnefatafl.Shared.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Hnefatafl.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Hnefatafl.Domain/Hnefatafl.Domain.csproj",
+      "msbuildProject": "../Hnefatafl.Domain/Hnefatafl.Domain.csproj"
+    },
+    "Hnefatafl.Shared/1.0.0": {
+      "type": "project",
+      "path": "../Hnefatafl.Shared/Hnefatafl.Shared.csproj",
+      "msbuildProject": "../Hnefatafl.Shared/Hnefatafl.Shared.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "Hnefatafl.Domain >= 1.0.0",
+      "Hnefatafl.Shared >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jacob\\.nuget\\packages\\": {},
@@ -39,7 +74,14 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\dev\\Hnefatafl\\Hnefatafl.Domain\\Hnefatafl.Domain.csproj": {
+              "projectPath": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain\\Hnefatafl.Domain.csproj"
+            },
+            "C:\\dev\\Hnefatafl\\Hnefatafl.Shared\\Hnefatafl.Shared.csproj": {
+              "projectPath": "C:\\dev\\Hnefatafl\\Hnefatafl.Shared\\Hnefatafl.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Hnefatafl.Application/1.0.0": {
+        "dependencies": {
+          "Hnefatafl.Domain": "1.0.0",
+          "Hnefatafl.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Hnefatafl.Application.dll": {}
+        }
+      },
+      "Hnefatafl.Domain/1.0.0": {
+        "runtime": {
+          "Hnefatafl.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Hnefatafl.Shared/1.0.0": {
+        "runtime": {
+          "Hnefatafl.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hnefatafl.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hnefatafl.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hnefatafl.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

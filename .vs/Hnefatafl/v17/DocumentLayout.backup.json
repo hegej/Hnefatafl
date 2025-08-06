@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\Hnefatafl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16A4FA48-C467-4213-B96D-548E42F4F47E}|Hnefatafl.Domain\\Hnefatafl.Domain.csproj|c:\\dev\\hnefatafl\\hnefatafl.domain\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A4FA48-C467-4213-B96D-548E42F4F47E}|Hnefatafl.Domain\\Hnefatafl.Domain.csproj|solutionrelative:hnefatafl.domain\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A4FA48-C467-4213-B96D-548E42F4F47E}|Hnefatafl.Domain\\Hnefatafl.Domain.csproj|c:\\dev\\hnefatafl\\hnefatafl.domain\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A4FA48-C467-4213-B96D-548E42F4F47E}|Hnefatafl.Domain\\Hnefatafl.Domain.csproj|solutionrelative:hnefatafl.domain\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A4FA48-C467-4213-B96D-548E42F4F47E}|Hnefatafl.Domain\\Hnefatafl.Domain.csproj|c:\\dev\\hnefatafl\\hnefatafl.domain\\piecetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A4FA48-C467-4213-B96D-548E42F4F47E}|Hnefatafl.Domain\\Hnefatafl.Domain.csproj|solutionrelative:hnefatafl.domain\\piecetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A74EBD1-12F6-442C-BF18-AFD8E3751F56}|Hnefatafl.Domain.Tests\\Hnefatafl.Domain.Tests.csproj|c:\\dev\\hnefatafl\\hnefatafl.domain.tests\\piecetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A74EBD1-12F6-442C-BF18-AFD8E3751F56}|Hnefatafl.Domain.Tests\\Hnefatafl.Domain.Tests.csproj|solutionrelative:hnefatafl.domain.tests\\piecetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A4FA48-C467-4213-B96D-548E42F4F47E}|Hnefatafl.Domain\\Hnefatafl.Domain.csproj|c:\\dev\\hnefatafl\\hnefatafl.domain\\hnefatafl.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16A4FA48-C467-4213-B96D-548E42F4F47E}|Hnefatafl.Domain\\Hnefatafl.Domain.csproj|solutionrelative:hnefatafl.domain\\hnefatafl.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A74EBD1-12F6-442C-BF18-AFD8E3751F56}|Hnefatafl.Domain.Tests\\Hnefatafl.Domain.Tests.csproj|c:\\dev\\hnefatafl\\hnefatafl.domain.tests\\coordinatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A74EBD1-12F6-442C-BF18-AFD8E3751F56}|Hnefatafl.Domain.Tests\\Hnefatafl.Domain.Tests.csproj|solutionrelative:hnefatafl.domain.tests\\coordinatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A74EBD1-12F6-442C-BF18-AFD8E3751F56}|Hnefatafl.Domain.Tests\\Hnefatafl.Domain.Tests.csproj|c:\\dev\\hnefatafl\\hnefatafl.domain.tests\\hnefatafl.domain.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A74EBD1-12F6-442C-BF18-AFD8E3751F56}|Hnefatafl.Domain.Tests\\Hnefatafl.Domain.Tests.csproj|solutionrelative:hnefatafl.domain.tests\\hnefatafl.domain.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PieceType.cs",
+              "DocumentMoniker": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain\\PieceType.cs",
+              "RelativeDocumentMoniker": "Hnefatafl.Domain\\PieceType.cs",
+              "ToolTip": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain\\PieceType.cs",
+              "RelativeToolTip": "Hnefatafl.Domain\\PieceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T15:24:59.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PieceTest.cs",
+              "DocumentMoniker": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain.Tests\\PieceTest.cs",
+              "RelativeDocumentMoniker": "Hnefatafl.Domain.Tests\\PieceTest.cs",
+              "ToolTip": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain.Tests\\PieceTest.cs",
+              "RelativeToolTip": "Hnefatafl.Domain.Tests\\PieceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T15:02:51.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain\\Piece.cs",
+              "RelativeDocumentMoniker": "Hnefatafl.Domain\\Piece.cs",
+              "ToolTip": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain\\Piece.cs",
+              "RelativeToolTip": "Hnefatafl.Domain\\Piece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:58:11.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hnefatafl.Domain.csproj",
+              "DocumentMoniker": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain\\Hnefatafl.Domain.csproj",
+              "RelativeDocumentMoniker": "Hnefatafl.Domain\\Hnefatafl.Domain.csproj",
+              "ToolTip": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain\\Hnefatafl.Domain.csproj",
+              "RelativeToolTip": "Hnefatafl.Domain\\Hnefatafl.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T14:55:52.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoordinateTests.cs",
+              "DocumentMoniker": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain.Tests\\CoordinateTests.cs",
+              "RelativeDocumentMoniker": "Hnefatafl.Domain.Tests\\CoordinateTests.cs",
+              "ToolTip": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain.Tests\\CoordinateTests.cs",
+              "RelativeToolTip": "Hnefatafl.Domain.Tests\\CoordinateTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:48:12.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hnefatafl.Domain.Tests.csproj",
+              "DocumentMoniker": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain.Tests\\Hnefatafl.Domain.Tests.csproj",
+              "RelativeDocumentMoniker": "Hnefatafl.Domain.Tests\\Hnefatafl.Domain.Tests.csproj",
+              "ToolTip": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain.Tests\\Hnefatafl.Domain.Tests.csproj",
+              "RelativeToolTip": "Hnefatafl.Domain.Tests\\Hnefatafl.Domain.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T14:47:24.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coordinate.cs",
+              "DocumentMoniker": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain\\Coordinate.cs",
+              "RelativeDocumentMoniker": "Hnefatafl.Domain\\Coordinate.cs",
+              "ToolTip": "C:\\dev\\Hnefatafl\\Hnefatafl.Domain\\Coordinate.cs",
+              "RelativeToolTip": "Hnefatafl.Domain\\Coordinate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T19:38:27.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
