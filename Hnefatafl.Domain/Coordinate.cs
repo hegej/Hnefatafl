@@ -1,6 +1,6 @@
 ﻿namespace Hnefatafl.Domain;
 
-// A grid/space on the baord A-K, 1-11, is a unchangeable value (char + int) 
+// A grid/space on the board A-K, 1-11, is a unchangeable value (char + int) 
 
 public readonly record struct Coordinate(char File, int Rank)
 {

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hnefatafl.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c96ee5b1f5fed99fcf4aeb7496939004c8211477")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e67d213ac8989def423dde50533376bca91b947")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hnefatafl.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hnefatafl.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
