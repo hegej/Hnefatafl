@@ -1,5 +1,4 @@
 ﻿using Hnefatafl.Domain;
-using Xunit;
 
 public class BoardLayoutTests
 {

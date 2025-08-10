@@ -1,7 +1,5 @@
 ﻿using Hnefatafl.Domain;
-using Xunit;
 
-namespace Hnefatafl.Domain.Tests;
 
 public class CoordinateTests
 {
