@@ -1,6 +1,4 @@
 ﻿using Hnefatafl.Domain;
-using System.Xml.Serialization;
-using Xunit;
 
 public class RuleEngineTests
 {
